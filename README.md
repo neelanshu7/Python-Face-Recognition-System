@@ -25,11 +25,7 @@ This real-time application uses your webcam to detect multiple faces in a video 
 
 ## 📸 Demo
 
-> Press `q` anytime to quit the application.
-
----
-
-
+Press `q` anytime to quit the application.
 ---
 
 ## 💻 How to Run
