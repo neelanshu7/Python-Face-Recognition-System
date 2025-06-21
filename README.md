@@ -54,6 +54,3 @@ python face_recognition.py
 ## 🧑‍💻 Author
 **Neelanshu Mitra**
 Feel free to connect or suggest improvements!
-
-## 📄 License
-This project is open-source under the MIT License.
